@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Dictionary",
+    "imageSrc": "projects/dictionary.jpeg",
+    "description": "This application provides users with a seamless and interactive experience to look up word definitions, synonyms, and pronunciations.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT","FETCH API"],
+    "demo": "https://660eeb50f7b3cf33ffacbac1--bucolic-marzipan-bcb3d5.netlify.app/",
+    "source": "https://github.com/parambirgit"
+  },
+  {
+    "title": "Digital clock",
+    "imageSrc": "projects/digital clock.jpeg",
+    "description": "This project showcases my skills in front-end web development and real-time data handling..",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "demo": "https://javascriptdigitalclock.vercel.app/",
+    "source": "https://github.com/parambirgit"
+  },
+  {
+    "title": "TIC TAC TOE",
+    "imageSrc": "projects/tic tac toe.jpeg",
+    "description": "This classic game project demonstrates my skills in creating engaging and responsive web applications..",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
+    "demo": "https://javascripttictactoe.vercel.app/",
+    "source": "https://github.com/parambirgit"
+  },
+
+  {
+    "title": "Apple watch clone",
+    "imageSrc": "projects/apple watch.jpeg",
+    "description": "This  project demonstrates my skills in creating engaging and responsive web clones..",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://660eeba210284033f095d3bd--magical-tiramisu-0f82fb.netlify.app/",
+    "source": "https://github.com/parambirgit"
+  },
+  {
+    "title": "Chat application",
+    "imageSrc": "projects/chat app.jpeg",
+    "description": "This  project demonstrates my skills in working with web sockets ",
+    "skills": ["HTML", "CSS","REACT","SOCKET.IO"],
+    "demo": "https://66530b164b92a647c991a348--sage-starship-d84bd8.netlify.app/",
+    "source": "https://github.com/parambirgit"
+  }
+]
